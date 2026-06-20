@@ -154,7 +154,7 @@ ul{
     rgba(0,0,0,.45),
     rgba(0,0,0,.45)
     ),
-    url(images/HERO.jpeg);
+    url(HERO.jpeg);
 
     background-size:cover;
     background-position:center;
